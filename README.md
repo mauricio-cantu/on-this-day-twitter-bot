@@ -1,4 +1,4 @@
-⚠️ This is a rewrting of an old personal project (https://github.com/mauricio-cantu/on-this-day-bot)
+⚠️ This is a rewriting of an old personal project (https://github.com/mauricio-cantu/on-this-day-bot)
 
 <h1>On This Day Twitter Bot 🤖🔎</h1>
 <p><strong>Follow it!</strong> <a href="https://twitter.com/ThisDayBot" target="blank">@ThisDayBot</a></h2>
